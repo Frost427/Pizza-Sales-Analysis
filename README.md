@@ -8,8 +8,14 @@
 -	[Results and Findings](#results-and-findings)
 -	[References](#references)
 
+
 ### Project Overview
 This data analysis project aims to analyze Pizza Sales data to gain insights into customer behavior, sales trends, and product performance. Using data analysis techniques, I explored the dataset to identify key pizzas of sales, pattern in order time, and opportunities for business growth.
+Tableau Dashboard
+<img width="1375" height="765" alt="Screenshot 2025-09-04 101941" src="https://github.com/user-attachments/assets/279598f3-961a-461e-9349-df21d7beeccb" />
+
+PowerBi Dashboard
+<img width="1349" height="734" alt="Screenshot 2025-09-04 200542" src="https://github.com/user-attachments/assets/8a289f29-a951-4b9f-8629-4720fbf34c20" />
 
 ### Tools	
 -	SQL Server
