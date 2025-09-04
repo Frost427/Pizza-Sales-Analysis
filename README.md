@@ -1,7 +1,6 @@
 # Pizza-Sales-Analysis
 
 ## Table of Contents
--	[Data Source](#data-source)
 -	[Tools](#tools)
 -	[Data Cleaning and Preparation](#data-cleaning-and-preparation)
 -	[Exploratory Data Analysis](#exploratory-data-analysis)
@@ -11,9 +10,6 @@
 
 ### Project Overview
 This data analysis project aims to analyze Pizza Sales data to gain insights into customer behavior, sales trends, and product performance. Using data analysis techniques, I explored the dataset to identify key pizzas of sales, pattern in order time, and opportunities for business growth.
-
-### Data Source
-Sales Data: The primary dataset used for this analysis is the “pizza_sales.csv” file, containing detailed information about each sale made by the pizza company.
 
 ### Tools	
 -	SQL Server
